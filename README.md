@@ -11,8 +11,9 @@ This repository contains the design files and software for an open-source syring
 2. Electrical Parts
     1. 12V Power Supply
     2. Stepper Motor driver: TB6600 or similar
-    3. Arduino Uno
-    4. USB Cable
+    4. Stepper Motor - Nema 17 - 100:1 Planetary Gearbox: 17HS19-1684S-PG100
+    5. Arduino Uno
+    6. USB Cable
 
 
 ## Design and DIY Guidelines
