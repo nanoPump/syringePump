@@ -1,5 +1,5 @@
 # Syringe Pump
-This repository contains software to control an open-source syringe pump
+This repository contains the design files and software for an open-source syringe pump
 
 ## DIY Bill of Materials
 
