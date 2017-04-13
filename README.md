@@ -40,11 +40,10 @@ sudo pip install PyQt5
 ###### MacOS
 1. Install Python (current latest version is 3.6)
     * You are going to need a package installer like [Homebrew](https://brew.sh) - Follow the instructions if you don not have it
-    * One you have installed `Homebrew` you can run
+    * One you have installed `Homebrew` you can run. This should install pip3 (pip for the python3 homebrew package) - Its called pip3 to avoid issues with python2.7
   ```
   brew install python3
   ```
-    * This should install pip3 (pip for the python3 homebrew package) - Its called pip3 to avoid issues with python2.7
     
 2. Install `pyserial` using `pip`
 ```
