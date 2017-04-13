@@ -20,6 +20,7 @@ The file `Syringe_Pump__Master_12_4_17_LASER_CUT_4.5mm_acrylic.AI` contains the 
 
 ## Arduino | Control Board Software Installation
 
+
 ## Installing the GUI
 ###### Windows
 1. Install Python (32/64Bit depending on your system)
@@ -78,5 +79,5 @@ sudo pip3 install PyQt5
 4. Navigate to this repository and run
 ```
 pyuic5 mainwindow.ui>mainwindow_auto.py
-python pump_control.py
+python3 pump_control.py
 ```
