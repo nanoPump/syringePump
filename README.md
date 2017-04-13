@@ -6,7 +6,8 @@ This repository contains the design files and software for an open-source syring
     1. 3x 400by500mm 4.5mm thick Acrylic Sheets - [Recomended Supplier](http://uk.rs-online.com/web/p/solid-plastic-sheets/0824525/) in the UK or worldwide using Part Number for [RS Components](http://rs-online.com): 824-525
     2. SFU1605 250mm Ballscrew with corresponding BF12 and BK12 Support bearings. These can easily be found on ebay.
     3. LM8UU Linear Ball Bearings - 8mm Shaft
-    4. 8mm Stainless Steel Rods
+    4. 2x 8mm Stainless Steel Rods 230mm Drilled and Tapped M3
+    5. Shaft coupler 8mm to 10mm
     
 2. Electrical Parts
     1. 12V Power Supply
