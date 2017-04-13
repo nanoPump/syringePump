@@ -10,6 +10,13 @@ The file `Syringe_Pump__Master_12_4_17_LASER_CUT_4.5mm_acrylic.AI` contains the 
 
 ## Installing the GUI
 ###### Windows
+1. Install Python (32/64Bit depending on your system)
+  * You can get the latest version from [here](https://www.python.org/downloads/windows/)
+  * Make sure `pip` is also included in the binary installers - This should be the default since version 3.4
+2. Install `pyserial` using `pip
+...
+sudo pip install pyserial
+...`
 
 ###### Linux
 
