@@ -22,7 +22,7 @@ This repository contains the design files and software for an open-source syring
 The file `Syringe_Pump__Master_12_4_17_LASER_CUT_4.5mm_acrylic.AI` contains the Adobe Illustrator design for laser cutting 3 pieces of **400by500mm** 4.5mm (5mm) thick Acrylic/Plexiglass which can then be used to build the remaining mechanical parts of the syringe
 
 ## Arduino | Control Board Software Installation
-Open the Arduino sketch file using the Arduino IDE and upload to the Arduino. A typical application scenario shouldn't require any modifications to the code.
+Open the Arduino sketch file named `SP_1_3v2.ino` using the Arduino IDE and upload to the Arduino. A typical application scenario shouldn't require any modifications to the code.
 
 ## Installing the GUI
 ###### Windows
