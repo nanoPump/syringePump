@@ -25,34 +25,25 @@ The file `Syringe_Pump__Master_12_4_17_LASER_CUT_4.5mm_acrylic.AI` contains the 
 ###### Electrical Connections
 
 Pin Correspondence for the electrical connections:
-
-***Power Supply --> TB6600 Stepper Driver***
 ```
-+12V --> DC/Power (+)
-
-0V --> DC/Power (-)
+Power Supply     TB6600 Stepper Driver
++12V                DC/Power (+)
+0V                  DC/Power (-)
 ```
-***Stepper Motor Coil      --> TB6600 Stepper Driver***
 ```
-Red Wire                --> A(+)
-
-Blue Wire               --> A(-)
-
-Green Wire              --> B(+)
-
-Black Wire              --> B(-)
+Stepper Motor Coil      TB6600 Stepper Driver
+Red Wire                A(+)
+Blue Wire               A(-)
+Green Wire              B(+)
+Black Wire              B(-)
 ```
-***Arduino     --> TB6600 Stepper Driver***
 ```
-Vin         --> DC/Power (+)
-
-Pin 2       --> Enable
-
-Pin 3       --> Step
-
-Pin 4       --> Direction
-
-Ground      --> Enable (-), Step (-), Direction (-), DC/Power (-)
+Arduino     TB6600 Stepper Driver
+Vin         DC/Power (+)
+Pin 2       Enable
+Pin 3       Step
+Pin 4       Direction
+Ground      Enable (-), Step (-), Direction (-), DC/Power (-)
 ```
 
 
