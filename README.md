@@ -27,8 +27,8 @@ The file `Syringe_Pump__Master_12_4_17_LASER_CUT_4.5mm_acrylic.AI` contains the 
 Pin Correspondence for the electrical connections:
 ```
 Power Supply     TB6600 Stepper Driver
-+12V                DC/Power (+)
-0V                  DC/Power (-)
++12V             DC/Power (+)
+0V               DC/Power (-)
 ```
 ```
 Stepper Motor Coil      TB6600 Stepper Driver
